@@ -47,21 +47,3 @@ We use the **California Housing Dataset** from `sklearn.datasets`.
 | GitHub 🔗      | Version Control & Collaboration   |
 
 ---
-
-## 📂 Project Structure
-
-california-housing-predictor/
-│
-├── app/
-│ ├── static/ # CSS (optional)
-│ ├── templates/ # HTML templates
-│ ├── model/ # Saved model file
-│ ├── app.py # Flask app
-│
-├── notebook/
-│ └── california_housing_model.ipynb # Model training
-│
-├── Dockerfile
-├── requirements.txt
-├── .gitignore
-└── README.md
